@@ -7,19 +7,19 @@ I'm Berk Tunctan, a CS Student from the Georgia Institute of Technology
 
 ## Experience in:
 <p align="left">
- <a href="https://github.com/berkcan25/Quiz-Game" target="blank" style="visibility:hidden">
+ <a href="https://github.com/berkcan25/Quiz-Game" target="blank" style="text-decoration: none">
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="js-button" />
  </a> 
-  <a href="https://github.com/berkcan25/Clock" target="blank">
+  <a href="https://github.com/berkcan25/Clock" target="blank" style="text-decoration: none">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-button" />
  </a>
-  <a href="https://github.com/berkcan25/Calculator-App" target="blank">
+  <a href="https://github.com/berkcan25/Calculator-App" target="blank" style="text-decoration: none">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-button" />
  </a>
-  <a href="https://github.com/berkcan25/ToDo" target="blank">
+  <a href="https://github.com/berkcan25/ToDo" target="blank"style="text-decoration: none">
   <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="ts-button" />
  </a>
-    <a href="https://github.com/berkcan25/Word-Count" target="blank">
+    <a href="https://github.com/berkcan25/Word-Count" target="blank"style="text-decoration: none">
   <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&labelColor=black&logo=python&logoColor=4584b6" alt="py-button" />
  </a>
 </p>
