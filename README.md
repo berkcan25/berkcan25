@@ -25,10 +25,10 @@ I'm Berk Tunctan, a CS Student from the Georgia Institute of Technology
 </p>
 
 ## Tools
-<p align="center">
+<div align="center">
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-FFFFFF?style=for-the-badge&labelColor=black&logo=latex&logoColor=FFFFFFF)
 ![UML](https://img.shields.io/badge/UML-indigo?style=for-the-badge&labelColor=indigo&logo=uml&logoColor=yellow)
-</p> 
+</div>  
