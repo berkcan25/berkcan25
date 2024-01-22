@@ -7,7 +7,7 @@ I'm Berk Tunctan, a CS Student from the Georgia Institute of Technology
 
 ## Experience in:
 <p align="left">
- <a href="https://github.com/berkcan25/Quiz-Game" target="blank" style="visibility=hidden">
+ <a href="https://github.com/berkcan25/Quiz-Game" target="blank" style="visibility:hidden">
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="js-button" />
  </a> 
   <a href="https://github.com/berkcan25/Clock" target="blank">
