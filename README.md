@@ -10,7 +10,7 @@ I'm currently working on learn:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-button"/>
  </a>
 
-## Experience in:
+## Projects Featuring:
 <p align="left">
  <a href="https://github.com/berkcan25/Quiz-Game" target="blank" style="text-decoration: none">
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="js-button" />
