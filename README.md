@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 I'm Berk Tunctan, a CS Student from the Georgia Institute of Technology. I have a deep passion for computers and how people use them.
-I'm currently working on learn:
+I'm currently working on learning:
 - Data Science
 - Pandas
 - Data Frames
