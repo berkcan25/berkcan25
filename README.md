@@ -24,7 +24,7 @@ I'm Berk Tunctan, a CS Student from the Georgia Institute of Technology. I have 
   <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&labelColor=black&logo=python&logoColor=4584b6" alt="py-button" />
  </a>
     <a href="https://github.com/berkcan25/Mobile-Game-Project" target="blank"style="text-decoration: none">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black" alt="java-button" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=f89820&labelColor=black" alt="java-button" />
  </a>
 </p>
 
