@@ -1,10 +1,6 @@
 ## Welcome to my profile!
 I'm Berk Tunctan, a CS Student from the Georgia Institute of Technology. I have a deep passion for computers and how people use them.
-I'm currently working on learning:
-- Data Science
-  - Pandas
-  - Data Frames
-  - NumPy
+
 ## Check Me Out!
 <a href="https://linkedin.com/in/berk-c-tunctan" target="_blank" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-button"/>
@@ -12,7 +8,7 @@ I'm currently working on learning:
 
 ## Projects Featuring:
 <p align="left">
- <a href="https://github.com/berkcan25/Quiz-Game" target="blank" style="text-decoration: none">
+ <a href="https://github.com/berkcan25/Turkish-Bomb-Party-Game" target="blank" style="text-decoration: none">
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="js-button" />
  </a> 
   <a href="https://github.com/berkcan25/Clock" target="blank" style="text-decoration: none">
